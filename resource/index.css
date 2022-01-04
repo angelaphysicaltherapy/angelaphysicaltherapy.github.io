@@ -1,0 +1,85 @@
+body{
+    color:#DDF5E5;
+    background-color:#F3BAC3;
+}
+header{
+    color: #424242;
+    margin: 15px;
+}
+a{
+    text-decoration: none;
+    color:#F6821F
+}
+
+nav a{
+    color:#424242;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #DDF5E5;
+}
+
+section{
+    background-color: #424242;
+    margin: 15px;
+}
+
+ul li{
+    color:#F6821F;
+}
+
+#aboutme article{
+    padding: 30px;
+}
+
+#omaha{
+    
+}
+
+h1{
+    display: inline;
+  
+}
+nav{
+    display: inline;
+    float:right;
+    padding: 7px;
+}
+
+nav h3{
+    display: inline;
+    
+
+}
+
+
+#article{
+    display: flex;
+    align-items:stretch;
+    justify-content: space-between;
+
+    
+}
+
+#intro{
+   max-width: 55%;
+   display: inline-block;
+}
+
+
+
+#picture{
+    display: inline-block;
+    background-color: #DDF5E5;
+    max-width: 40%;
+   
+}
+#picture img{
+   
+    max-height: 400px;
+    
+
+}
