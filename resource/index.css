@@ -64,7 +64,7 @@ nav h3{
 article{
     display: flex;
     flex-wrap: wrap;
-    align-items: stretch;
+   
     justify-content: space-around;  
     gap:10px 10px;
     align-content: space-around;
